@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9E960ED5-4465-430E-BCB9-91F7BEE810EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lenumero/numero.cs">
+    <Files>
+      <File FileName="lenumero/Program.cs" Line="6" Column="6" />
+      <File FileName="lenumero/numero.cs" Line="16" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.lenumero PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

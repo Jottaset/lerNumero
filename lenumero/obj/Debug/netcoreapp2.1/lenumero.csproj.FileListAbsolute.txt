@@ -1,0 +1,11 @@
+/Users/aluno/Projects/lenumero/lenumero/obj/Debug/netcoreapp2.1/lenumero.csprojAssemblyReference.cache
+/Users/aluno/Projects/lenumero/lenumero/obj/Debug/netcoreapp2.1/lenumero.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/lenumero/lenumero/obj/Debug/netcoreapp2.1/lenumero.AssemblyInfoInputs.cache
+/Users/aluno/Projects/lenumero/lenumero/obj/Debug/netcoreapp2.1/lenumero.AssemblyInfo.cs
+/Users/aluno/Projects/lenumero/lenumero/bin/Debug/netcoreapp2.1/lenumero.deps.json
+/Users/aluno/Projects/lenumero/lenumero/bin/Debug/netcoreapp2.1/lenumero.runtimeconfig.json
+/Users/aluno/Projects/lenumero/lenumero/bin/Debug/netcoreapp2.1/lenumero.runtimeconfig.dev.json
+/Users/aluno/Projects/lenumero/lenumero/bin/Debug/netcoreapp2.1/lenumero.dll
+/Users/aluno/Projects/lenumero/lenumero/bin/Debug/netcoreapp2.1/lenumero.pdb
+/Users/aluno/Projects/lenumero/lenumero/obj/Debug/netcoreapp2.1/lenumero.dll
+/Users/aluno/Projects/lenumero/lenumero/obj/Debug/netcoreapp2.1/lenumero.pdb
